@@ -1,5 +1,5 @@
 Ok, pushing a newly created file.
 
 
-21MAR2011
+21MAR2011T12:00
 Update fill in Xcode to test GIT system.
